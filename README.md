@@ -15,5 +15,7 @@ To help ensure a smooth update process, only install official DigiCluster update
 
 For more information, visit the main DigiCluster documentation and support resources.
 
+
 To report any bugs/issues, fill out the contact form on our website: DigiCluster.org.
+
 Alternatively, you can reach out in our Discord: https://discord.gg/WGhnSSF6HS
